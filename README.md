@@ -1,4 +1,5 @@
 # Codewars
-Список моих решений задач сайта [codewars.com](https://www.codewars.com/)
-## Профиль
-![profile_pic](https://www.codewars.com/users/MaNull/badges/large)
+
+![profile_pic](https://www.codewars.com/users/MaNull/badges/large) 
+
+Мой профиль: https://www.codewars.com/users/MaNull
