@@ -8,3 +8,5 @@ def wave(people:str):
                 continue
             result.append(people[:i] + people[i:].capitalize())
     return result
+
+
